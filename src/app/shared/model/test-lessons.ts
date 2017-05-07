@@ -3,17 +3,17 @@ import { Lesson } from "./lesson";
 export const testLessons: Lesson[] = [
   {
     id: 1,
-    description: 'One morning, when Gregor Samsa woke from troubled dreams',
+    description: 'One morning, when Gregor Samsa woke',
     duration: '5:00'
   },
   {
     id: 2,
-    description: 'he found himself transformed in his bed into a horrible vermin.',
+    description: 'from troubled dreams, he found himself transformed',
     duration: '7:00'
   },
   {
     id: 3,
-    description: 'He lay on his armour-like back, ',
+    description: 'in his bed into a horrible vermin.',
     duration: '9:00'
   },
 ];
